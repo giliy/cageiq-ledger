@@ -1,0 +1,46 @@
+created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,market_src
+2026-11-06T19:29:41Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.599220,blend-v1,0.672018,pinnacle
+2026-11-06T19:29:41Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.546898,blend-v1,0.374696,pinnacle
+2026-11-06T19:29:41Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.412922,blend-v1,0.363418,median
+2026-11-06T19:29:41Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.566533,blend-v1,,
+2026-11-06T19:29:41Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.425536,blend-v1,0.388623,median
+2026-11-06T19:29:41Z,45510,UFC 334,2026-11-15,Bilal Hasan,Luis Gurule,0.759763,blend-v1,0.858779,median
+2026-11-06T19:29:41Z,45543,UFC Vegas 124,2026-11-08,Tatiana Suarez,Virna Jandiroba,0.675862,blend-v1,0.646081,pinnacle
+2026-11-06T19:29:41Z,45544,UFC Vegas 124,2026-11-07,Seokhyeon Ko,Wellington Turman,0.760255,blend-v1,0.838710,pinnacle
+2026-11-06T19:29:41Z,45545,UFC Vegas 124,2026-11-08,Billy Elekana,Lucas Fernando,0.367102,blend-v1,0.260521,pinnacle
+2026-11-06T19:29:41Z,45546,UFC Vegas 124,2026-11-07,Gabriella Fernandes,Karine Silva,0.369689,blend-v1,0.334101,pinnacle
+2026-11-06T19:29:41Z,45550,UFC Vegas 124,2026-11-07,Jose Delano,Murtazali Magomedov,0.446193,blend-v1,0.521964,pinnacle
+2026-11-06T19:29:41Z,45551,UFC Vegas 124,2026-11-07,Keiichiro Nakamura,Ollie Schmid,0.533730,blend-v1,0.759470,pinnacle
+2026-11-06T19:29:41Z,45555,UFC Vegas 124,2026-11-07,Nina Milosevic,Priscila Cachoeira,0.822805,blend-v1,0.807131,pinnacle
+2026-11-06T19:29:41Z,45556,UFC Vegas 124,2026-11-07,Jonny Parsons,Jose Souza,0.558192,blend-v1,0.309051,pinnacle
+2026-11-06T19:29:41Z,45557,UFC Vegas 124,2026-11-08,Marcos Degli,Mitch Raposo,0.389515,blend-v1,0.682432,pinnacle
+2026-11-06T19:29:41Z,45563,UFC Vegas 124,2026-11-07,Andre Petroski,Mantas Kondratavicius,0.316013,blend-v1,0.260437,pinnacle
+2026-11-06T19:29:41Z,45564,UFC Vegas 124,2026-11-08,Johnny Walker,Waldo Cortes Acosta,0.406048,blend-v1,0.320542,pinnacle
+2026-11-06T19:29:41Z,45566,UFC Vegas 124,2026-11-08,Davey Grant,Elijah Smith,0.221370,blend-v1,0.264113,pinnacle
+2026-11-06T19:29:41Z,45567,UFC 334,2026-11-14,Charles Radtke,Stephen Thompson,0.627617,blend-v1,0.452179,median
+2026-11-06T19:29:41Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.668591,blend-v1,0.562827,median
+2026-11-06T19:29:41Z,45569,UFC 334,2026-11-14,Jim Miller,Terrance McKinney,0.399450,blend-v1,0.298441,median
+2026-11-06T19:29:41Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.231058,blend-v1,0.416452,median
+2026-11-06T19:29:41Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.650519,blend-v1,0.657895,median
+2026-11-06T19:29:41Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.280642,blend-v1,0.216216,median
+2026-11-06T19:29:41Z,45628,UFC Vegas 124,2026-11-07,Austin Bashi,Carlos Calderon,0.643146,blend-v1,0.848806,pinnacle
+2026-11-07T08:21:17Z,45510,UFC 334,2026-11-15,Bilal Hasan,Luis Gurule,0.744059,blend-v1,0.858779,median
+2026-11-07T08:21:17Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.315659,blend-v1,0.319249,median
+2026-11-07T08:21:17Z,45556,UFC Vegas 124,2026-11-07,Jonny Parsons,Jose Souza,0.544893,blend-v1,0.325792,pinnacle
+2026-11-07T08:35:38Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.619964,blend-v2,0.672018,pinnacle
+2026-11-07T08:35:38Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.464489,blend-v2,0.371359,pinnacle
+2026-11-07T08:35:38Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.501122,blend-v2,0.363418,median
+2026-11-07T08:35:38Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.494965,blend-v2,,
+2026-11-07T08:35:38Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.467325,blend-v2,0.390818,median
+2026-11-07T08:35:38Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.300753,blend-v2,0.319249,median
+2026-11-07T08:35:38Z,45546,UFC Vegas 124,2026-11-07,Gabriella Fernandes,Karine Silva,0.320492,blend-v2,0.334101,pinnacle
+2026-11-07T08:35:38Z,45550,UFC Vegas 124,2026-11-07,Jose Delano,Murtazali Magomedov,0.402809,blend-v2,0.506460,pinnacle
+2026-11-07T08:35:38Z,45551,UFC Vegas 124,2026-11-07,Keiichiro Nakamura,Ollie Schmid,0.520981,blend-v2,0.759470,pinnacle
+2026-11-07T08:35:38Z,45556,UFC Vegas 124,2026-11-07,Jonny Parsons,Jose Souza,0.558153,blend-v2,0.325792,pinnacle
+2026-11-07T08:35:38Z,45563,UFC Vegas 124,2026-11-07,Andre Petroski,Mantas Kondratavicius,0.304552,blend-v2,0.260437,pinnacle
+2026-11-07T08:35:38Z,45564,UFC Vegas 124,2026-11-08,Johnny Walker,Waldo Cortes Acosta,0.470349,blend-v2,0.325000,pinnacle
+2026-11-07T08:35:38Z,45567,UFC 334,2026-11-14,Charles Radtke,Stephen Thompson,0.546890,blend-v2,0.461602,median
+2026-11-07T08:35:38Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.691013,blend-v2,0.562827,median
+2026-11-07T08:35:38Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.246565,blend-v2,0.416452,median
+2026-11-07T08:35:38Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.620589,blend-v2,0.657895,median
+2026-11-07T08:35:38Z,45628,UFC Vegas 124,2026-11-07,Austin Bashi,Carlos Calderon,0.679409,blend-v2,0.843537,pinnacle
