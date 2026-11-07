@@ -44,3 +44,16 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-07T08:35:38Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.246565,blend-v2,0.416452,median
 2026-11-07T08:35:38Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.620589,blend-v2,0.657895,median
 2026-11-07T08:35:38Z,45628,UFC Vegas 124,2026-11-07,Austin Bashi,Carlos Calderon,0.679409,blend-v2,0.843537,pinnacle
+2026-11-07T10:19:19Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.606037,blend-v4,0.672018,pinnacle
+2026-11-07T10:19:19Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.406511,blend-v4,0.371359,pinnacle
+2026-11-07T10:19:19Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.434172,blend-v4,0.363418,median
+2026-11-07T10:19:19Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.421899,blend-v4,,
+2026-11-07T10:19:19Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.434533,blend-v4,0.390818,median
+2026-11-07T10:19:19Z,45510,UFC 334,2026-11-15,Bilal Hasan,Luis Gurule,0.772354,blend-v4,0.858779,median
+2026-11-07T10:19:19Z,45543,UFC Vegas 124,2026-11-08,Tatiana Suarez,Virna Jandiroba,0.611356,blend-v4,0.645390,pinnacle
+2026-11-07T10:19:19Z,45545,UFC Vegas 124,2026-11-08,Billy Elekana,Lucas Fernando,0.380669,blend-v4,0.260956,pinnacle
+2026-11-07T10:19:19Z,45551,UFC Vegas 124,2026-11-07,Keiichiro Nakamura,Ollie Schmid,0.543378,blend-v4,0.759470,pinnacle
+2026-11-07T10:19:19Z,45556,UFC Vegas 124,2026-11-07,Jonny Parsons,Jose Souza,0.546201,blend-v4,0.325792,pinnacle
+2026-11-07T10:19:19Z,45566,UFC Vegas 124,2026-11-08,Davey Grant,Elijah Smith,0.232012,blend-v4,0.263581,pinnacle
+2026-11-07T10:19:19Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.720123,blend-v4,0.562827,median
+2026-11-07T10:19:19Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.321783,blend-v4,0.216216,median
