@@ -57,3 +57,5 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-07T10:19:19Z,45566,UFC Vegas 124,2026-11-08,Davey Grant,Elijah Smith,0.232012,blend-v4,0.263581,pinnacle
 2026-11-07T10:19:19Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.720123,blend-v4,0.562827,median
 2026-11-07T10:19:19Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.321783,blend-v4,0.216216,median
+2026-11-08T07:55:31Z,45574,UFC Doha,2026-11-21,Jiri Prochazka,Navajo Stirling,0.293905,blend-v4,0.437340,median
+2026-11-08T07:55:31Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.586438,blend-v4,0.550705,median
