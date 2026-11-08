@@ -63,3 +63,5 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-08T08:53:31Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.286939,blend-v4,0.313501,median
 2026-11-08T08:53:31Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.731678,blend-v4,0.591940,median
 2026-11-08T08:53:31Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.569824,blend-v4,0.550705,median
+2026-11-08T15:13:12Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.430199,blend-v4,0.394284,median
+2026-11-08T15:13:12Z,45569,UFC 334,2026-11-14,Jim Miller,Terrance McKinney,0.416512,blend-v4,0.340491,median
