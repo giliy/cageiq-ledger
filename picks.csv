@@ -72,3 +72,18 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-08T16:34:21Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.715920,blend-v5,0.600995,median
 2026-11-08T16:34:21Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.202660,blend-v5,0.399248,median
 2026-11-08T16:34:21Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.635373,blend-v5,0.655918,median
+2026-11-08T20:19:39Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.623926,blend-v5,0.663573,pinnacle
+2026-11-08T20:19:39Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.379678,blend-v5,0.375610,pinnacle
+2026-11-08T20:19:39Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.449501,blend-v5,0.362981,median
+2026-11-08T20:19:39Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.428034,blend-v5,,
+2026-11-08T20:19:39Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.466922,blend-v5,0.397259,median
+2026-11-08T20:19:39Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.276381,blend-v5,0.313501,median
+2026-11-08T20:19:39Z,45543,UFC Vegas 124,2026-11-08,Tatiana Suarez,Virna Jandiroba,0.655831,blend-v5,0.640662,pinnacle
+2026-11-08T20:19:39Z,45545,UFC Vegas 124,2026-11-08,Billy Elekana,Lucas Fernando,0.295366,blend-v5,0.259921,pinnacle
+2026-11-08T20:19:39Z,45557,UFC Vegas 124,2026-11-08,Marcos Degli,Mitch Raposo,0.355100,blend-v5,0.674208,pinnacle
+2026-11-08T20:19:39Z,45564,UFC Vegas 124,2026-11-08,Johnny Walker,Waldo Cortes Acosta,0.544099,blend-v5,0.335632,pinnacle
+2026-11-08T20:19:39Z,45566,UFC Vegas 124,2026-11-08,Davey Grant,Elijah Smith,0.155310,blend-v5,0.251938,pinnacle
+2026-11-08T20:19:39Z,45569,UFC 334,2026-11-14,Jim Miller,Terrance McKinney,0.386908,blend-v5,0.342723,median
+2026-11-08T20:19:39Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.191892,blend-v5,0.384422,median
+2026-11-08T20:19:39Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.311125,blend-v5,0.247104,median
+2026-11-08T20:19:39Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.590934,blend-v5,0.556168,median
