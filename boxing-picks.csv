@@ -1,0 +1,4 @@
+created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
+2026-11-08T20:21:34Z,ef6dd64925f274e739e2d128bde8f3fd,2026-11-09T02:05:00Z,Irma Garcia,Nataly Delgado,0.526445,box-blend-v1,0.514360,pinnacle
+2026-11-08T20:21:34Z,ed202ffc8a7b30ea84ab7036b519d8b4,2026-11-09T02:45:00Z,Miyo Yoshida,Skye Nicolson,0.058656,box-blend-v1,0.079755,pinnacle
+2026-11-08T20:21:34Z,43227dcb0ff9ee09404052286912f1e3,2026-11-09T04:30:00Z,Alycia Baumgardner,Elif Nur Turhan,0.785449,box-blend-v1,0.809677,pinnacle
