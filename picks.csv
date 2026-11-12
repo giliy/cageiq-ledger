@@ -108,3 +108,11 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-12T20:15:46Z,45738,UFC Doha,2026-11-21,Alessandro Costa,Amir Albazi,0.505297,blend-v5,0.584383,median
 2026-11-12T20:15:46Z,45739,UFC Doha,2026-11-21,Jake Matthews,Tahir Abdullayev,0.620833,blend-v5,0.606436,median
 2026-11-12T20:15:46Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.756682,blend-v5,0.592965,median
+2026-11-12T23:02:07Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.600467,blend-v5,0.630435,pinnacle
+2026-11-12T23:02:07Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.395165,blend-v5,0.401496,pinnacle
+2026-11-12T23:02:07Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.439595,blend-v5,,
+2026-11-12T23:02:07Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.205403,blend-v5,0.382353,pinnacle
+2026-11-12T23:02:07Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.645822,blend-v5,0.696703,pinnacle
+2026-11-12T23:02:07Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.574077,blend-v5,0.578406,median
+2026-11-12T23:02:07Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.655795,blend-v5,0.419347,median
+2026-11-12T23:02:07Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.743150,blend-v5,0.584383,median
