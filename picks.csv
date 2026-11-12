@@ -100,3 +100,11 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-12T19:32:16Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.470218,blend-v5,0.409548,pinnacle
 2026-11-12T19:32:16Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.656453,blend-v5,0.696703,pinnacle
 2026-11-12T19:32:16Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.588239,blend-v5,0.578406,median
+2026-11-12T20:15:46Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.670370,blend-v5,0.415617,median
+2026-11-12T20:15:46Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.545199,blend-v5,,
+2026-11-12T20:15:46Z,45735,UFC Doha,2026-11-21,Ikram Aliskerov,Jared Cannonier,0.742946,blend-v5,0.761905,median
+2026-11-12T20:15:46Z,45736,UFC Doha,2026-11-21,Aleksandre Topuria,Santiago Luna,0.277385,blend-v5,0.662791,median
+2026-11-12T20:15:46Z,45737,UFC Doha,2026-11-21,Shamil Gaziev,Tallison Teixeira,0.275017,blend-v5,0.667436,median
+2026-11-12T20:15:46Z,45738,UFC Doha,2026-11-21,Alessandro Costa,Amir Albazi,0.505297,blend-v5,0.584383,median
+2026-11-12T20:15:46Z,45739,UFC Doha,2026-11-21,Jake Matthews,Tahir Abdullayev,0.620833,blend-v5,0.606436,median
+2026-11-12T20:15:46Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.756682,blend-v5,0.592965,median
