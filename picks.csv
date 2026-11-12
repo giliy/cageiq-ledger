@@ -95,3 +95,8 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-09T10:24:23Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.569012,blend-v5,0.567326,median
 2026-11-10T09:48:51Z,45573,UFC 334,2026-11-14,Evan Elder,Samuel Sanches,0.471297,blend-v5,0.474093,pinnacle
 2026-11-12T12:28:40Z,45508,UFC 334,2026-11-15,Caio Borralho,Yousri Belgaroui,0.433092,blend-v5,0.580808,pinnacle
+2026-11-12T19:32:16Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.632536,blend-v5,0.625304,pinnacle
+2026-11-12T19:32:16Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.382568,blend-v5,0.401496,pinnacle
+2026-11-12T19:32:16Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.470218,blend-v5,0.409548,pinnacle
+2026-11-12T19:32:16Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.656453,blend-v5,0.696703,pinnacle
+2026-11-12T19:32:16Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.588239,blend-v5,0.578406,median
