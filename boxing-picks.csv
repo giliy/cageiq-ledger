@@ -2,3 +2,14 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-08T20:21:34Z,ef6dd64925f274e739e2d128bde8f3fd,2026-11-09T02:05:00Z,Irma Garcia,Nataly Delgado,0.526445,box-blend-v1,0.514360,pinnacle
 2026-11-08T20:21:34Z,ed202ffc8a7b30ea84ab7036b519d8b4,2026-11-09T02:45:00Z,Miyo Yoshida,Skye Nicolson,0.058656,box-blend-v1,0.079755,pinnacle
 2026-11-08T20:21:34Z,43227dcb0ff9ee09404052286912f1e3,2026-11-09T04:30:00Z,Alycia Baumgardner,Elif Nur Turhan,0.785449,box-blend-v1,0.809677,pinnacle
+2026-11-13T08:22:33Z,3760f42894e03eedf4c41dec659582c5,2026-11-14T16:00:00Z,Brandon Colantonio,Jakhongir Zokirov,0.055065,box-blend-v1,0.080735,median
+2026-11-13T08:22:33Z,cec2844ef137b3e4fcb155541eeacb4b,2026-11-14T18:00:00Z,Carlos Adames,Gerome Warburton,0.949692,box-blend-v1,0.925656,median
+2026-11-13T08:22:33Z,efe1fbb3b5ab56d7c08300e6c155381e,2026-11-14T21:00:00Z,Gavin Gwynne,Zelfa Barrett,0.309076,box-blend-v1,0.314607,pinnacle
+2026-11-13T08:22:33Z,c2878901dc9e7d7a3784b943b12cb281,2026-11-15T01:10:00Z,Alexander Flores,David Adeleye,0.073995,box-blend-v1,0.103984,pinnacle
+2026-11-13T08:22:33Z,1502e81623d422dfcaef2ceec673e6c3,2026-11-15T04:00:00Z,Darius Fulghum,Diego Pacheco,0.074118,box-blend-v1,0.134709,pinnacle
+2026-11-13T08:22:33Z,5a536ccef9df3900d7fe7fa0ee63623a,2026-11-20T21:00:00Z,Lauren Price,Michaela Kotaskova,0.931056,box-blend-v1,0.860882,median
+2026-11-13T08:22:33Z,c18243206995f61294d952c26661373b,2026-11-28T21:00:00Z,Agit Kabayel,Nelson Hysa,0.854102,box-blend-v1,0.898058,median
+2026-11-13T08:22:33Z,35aff424a542edb3ed32edbc12888002,2026-11-29T07:00:00Z,David Jimenez,Seigo Yuri Akui,0.550396,box-blend-v1,0.462963,median
+2026-11-13T08:22:33Z,fa5ff410f4cf4432424aee65f4e6f2fa,2026-11-29T07:00:00Z,Riku Masuda,Seiya Tsutsumi,0.697626,box-blend-v1,0.648058,median
+2026-11-13T08:22:33Z,1d72c387fbcd738b8ae53f7982e6535c,2026-12-06T04:00:00Z,David Benavidez,Michal Cieslak,0.907308,box-blend-v1,0.861713,median
+2026-11-13T08:22:33Z,0b629a238b2f333babea078766b9a4bb,2026-12-12T02:00:00Z,Anthony Joshua,Tyson Fury,0.388121,box-blend-v1,0.375303,pinnacle
