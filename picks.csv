@@ -117,3 +117,13 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-12T23:02:07Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.655795,blend-v5,0.419347,median
 2026-11-12T23:02:07Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.743150,blend-v5,0.584383,median
 2026-11-13T08:14:01Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.432956,blend-v5,0.465116,median
+2026-11-13T08:42:40Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.623880,blend-v5,0.642857,pinnacle
+2026-11-13T08:42:40Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.379620,blend-v5,0.405000,pinnacle
+2026-11-13T08:42:40Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.449509,blend-v5,0.362981,median
+2026-11-13T08:42:40Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.427711,blend-v5,,
+2026-11-13T08:42:40Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.191891,blend-v5,0.382353,pinnacle
+2026-11-13T08:42:40Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.631478,blend-v5,0.688196,pinnacle
+2026-11-13T08:42:40Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.414042,blend-v5,0.465116,median
+2026-11-13T08:42:40Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.590955,blend-v5,0.577917,median
+2026-11-13T08:42:40Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.562126,blend-v5,,
+2026-11-13T08:42:40Z,45735,UFC Doha,2026-11-21,Ikram Aliskerov,Jared Cannonier,0.732207,blend-v5,0.740790,median
