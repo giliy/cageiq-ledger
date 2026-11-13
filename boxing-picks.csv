@@ -13,3 +13,4 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-13T08:22:33Z,fa5ff410f4cf4432424aee65f4e6f2fa,2026-11-29T07:00:00Z,Riku Masuda,Seiya Tsutsumi,0.697626,box-blend-v1,0.648058,median
 2026-11-13T08:22:33Z,1d72c387fbcd738b8ae53f7982e6535c,2026-12-06T04:00:00Z,David Benavidez,Michal Cieslak,0.907308,box-blend-v1,0.861713,median
 2026-11-13T08:22:33Z,0b629a238b2f333babea078766b9a4bb,2026-12-12T02:00:00Z,Anthony Joshua,Tyson Fury,0.388121,box-blend-v1,0.375303,pinnacle
+2026-11-13T18:06:31Z,75b4f2dc4b3413fe56c7cfeef31e7bc6,2026-11-14T19:00:00Z,Bakary Samake,Uisma Lima,0.546345,box-blend-v1,0.538016,median
