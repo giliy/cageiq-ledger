@@ -1,0 +1,12 @@
+created_at,bout_id,fight_date,promotion,sport,event,fighter_a,fighter_b,p_a,model,market_p_a,market_books
+2026-11-13T10:09:17Z,bfo-45685,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Vadim Nemkov,Sergey Bilostenniy,0.764687,promo-blend-v1,0.742373,5
+2026-11-13T10:09:17Z,bfo-45731,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Saygid Izagakhmaev,David Martinez,0.598293,promo-blend-v1,0.620253,3
+2026-11-13T10:09:17Z,bfo-45692,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Khasan Magomedsharipov,Ádám Borics,0.715162,promo-blend-v1,0.687500,5
+2026-11-13T10:09:17Z,bfo-45693,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Denis Goltsov,Maxwell Djantou Nana,0.775550,promo-blend-v1,0.762565,5
+2026-11-13T10:09:17Z,bfo-45694,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Rhys McKee,Ernesto Rodriguez,0.486328,promo-blend-v1,0.471396,5
+2026-11-13T10:09:17Z,bfo-45696,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Aleksandra Savicheva,Jacinta Austin,0.305854,promo-blend-v1,0.319829,5
+2026-11-13T10:09:17Z,bfo-45443,2026-11-21,ksw,mma,XTB KSW 123: Bartosiński vs. Łopaczyk,Adrian Bartosiński,Tymoteusz Łopaczyk,0.794354,promo-blend-v1,0.765957,1
+2026-11-13T10:09:17Z,bfo-45444,2026-11-21,ksw,mma,XTB KSW 123: Bartosiński vs. Łopaczyk,Valeriu Mircea,Marcin Held,0.506986,promo-blend-v1,0.510121,1
+2026-11-13T10:09:17Z,bfo-45446,2026-11-21,ksw,mma,XTB KSW 123: Bartosiński vs. Łopaczyk,Tomasz Romanowski,Igor Michaliszyn,0.429247,promo-blend-v1,0.442478,1
+2026-11-13T10:09:17Z,bfo-45445,2026-11-21,ksw,mma,XTB KSW 123: Bartosiński vs. Łopaczyk,Madars Fleminas,Mateusz Pawlik,0.672635,promo-blend-v1,0.662651,1
+2026-11-13T10:09:17Z,bfo-45448,2026-11-21,ksw,mma,XTB KSW 123: Bartosiński vs. Łopaczyk,Wojciech Kawa,Oleksandr Moisa,0.349553,promo-blend-v1,0.375000,1
