@@ -134,3 +134,14 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-13T18:25:33Z,45735,UFC Doha,2026-11-21,Ikram Aliskerov,Jared Cannonier,0.743575,blend-v5,0.733042,median
 2026-11-13T18:25:33Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.760748,blend-v5,0.569975,median
 2026-11-14T00:47:22Z,45569,UFC 334,2026-11-14,Jim Miller,Terrance McKinney,0.427164,blend-v5,0.353081,pinnacle
+2026-11-14T06:49:52Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.592320,blend-v5,0.654206,pinnacle
+2026-11-14T06:49:52Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.400186,blend-v5,0.401985,pinnacle
+2026-11-14T06:49:52Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.427701,blend-v5,0.366093,median
+2026-11-14T06:49:52Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.287257,blend-v5,0.312377,median
+2026-11-14T06:49:52Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.703821,blend-v5,0.621027,pinnacle
+2026-11-14T06:49:52Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.626853,blend-v5,0.691111,pinnacle
+2026-11-14T06:49:52Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.322512,blend-v5,0.228938,pinnacle
+2026-11-14T06:49:52Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.577197,blend-v5,0.577428,median
+2026-11-14T06:49:52Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.645178,blend-v5,0.407035,median
+2026-11-14T06:49:52Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.555518,blend-v5,,
+2026-11-14T06:49:52Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.740718,blend-v5,0.569975,median
