@@ -17,3 +17,7 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-14T15:29:30Z,fac779f4dad09a10c034155d1ca8acd6,2026-12-06T02:00:00Z,Emiliano Vargas,Omar Juarez,0.942497,box-blend-v1,0.856397,median
 2026-11-14T15:29:30Z,7925d57df203c5ae97477fec65f62c83,2026-12-06T03:00:00Z,Keith Thurman,Vergil Ortiz Jr,0.103184,box-blend-v1,0.135236,median
 2026-11-14T15:53:13Z,7925d57df203c5ae97477fec65f62c83,2026-12-06T03:00:00Z,Keith Thurman,Vergil Ortiz Jr,0.240511,box-blend-v1,0.298389,median
+2026-11-14T17:28:30Z,5a536ccef9df3900d7fe7fa0ee63623a,2026-11-20T21:00:00Z,Lauren Price,Michaela Kotaskova,0.956004,box-blend-v1,0.908265,median
+2026-11-14T17:28:30Z,1985219fd04a6f3079d6d5e5abb82ded,2026-11-20T21:00:00Z,Lee McGregor,Rhys Edwards,0.273744,box-blend-v1,0.239130,median
+2026-11-14T17:28:30Z,d673e82db285a33cdb6d29de5067ec50,2026-11-21T03:00:00Z,Gabriela Fundora,Jasmina Zapotoczna,0.907311,box-blend-v1,0.901527,median
+2026-11-14T17:28:30Z,7925d57df203c5ae97477fec65f62c83,2026-12-06T03:00:00Z,Keith Thurman,Vergil Ortiz Jr,0.103184,box-blend-v1,0.135236,median

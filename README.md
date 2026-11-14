@@ -32,6 +32,21 @@ In both files a fight can have several rows: a new row is appended only when our
 1 point. **The official pick is the last row logged before 00:00 UTC on the fight's date.** UFC results are graded at
 [cageiq.app/results](https://cageiq.app/results), boxing at [cageiq.app/boxing](https://cageiq.app/boxing/#record).
 
+## `price-watch.csv` (since 14 November 2026)
+
+Price watch flags the betting favourite when CageIQ's chance for it is at least 5 points above the market's, the
+first time that's true before picks lock, and records the price at that moment. After the lock the flag is graded
+against the closing line at [cageiq.app/price-watch](https://cageiq.app/price-watch/). One row per fight, never edited.
+
+| column | meaning |
+|---|---|
+| `flagged_at` | when the flag was logged (UTC) |
+| `mu_id`, `event`, `event_date` | the fight |
+| `fighter`, `opponent` | the flagged favourite and its opponent |
+| `judge_p`, `market_p` | CageIQ's and the market's (de-vigged) chance for `fighter` at the flag |
+| `line_p` | the median sportsbook's de-vigged chance in the same odds snapshot (compared with the close) |
+| `price`, `best_price`, `best_book`, `books` | middle and best decimal price for `fighter` in that snapshot, and the number of books |
+
 ## How to verify we never edit history
 
 1. **Git history** of this repository: every update only appends lines to `picks.csv` and `boxing-picks.csv`.
