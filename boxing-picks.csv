@@ -21,3 +21,4 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-14T17:28:30Z,1985219fd04a6f3079d6d5e5abb82ded,2026-11-20T21:00:00Z,Lee McGregor,Rhys Edwards,0.273744,box-blend-v1,0.239130,median
 2026-11-14T17:28:30Z,d673e82db285a33cdb6d29de5067ec50,2026-11-21T03:00:00Z,Gabriela Fundora,Jasmina Zapotoczna,0.907311,box-blend-v1,0.901527,median
 2026-11-14T17:28:30Z,7925d57df203c5ae97477fec65f62c83,2026-12-06T03:00:00Z,Keith Thurman,Vergil Ortiz Jr,0.103184,box-blend-v1,0.135236,median
+2026-11-14T18:26:49Z,c21fb5692f0b8ca102a92cb1b4c5e458,2026-12-12T00:00:00Z,Deontay Wilder,Jai Opetaia,0.129051,box-blend-v1,0.176110,median
