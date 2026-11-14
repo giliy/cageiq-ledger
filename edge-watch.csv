@@ -1,0 +1,6 @@
+logged_at,rule,mu_id,event,event_date,fighter,opponent,judge_p,market_p,price,books,note
+2026-11-14T00:54:41Z,judge_fav,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.7159,0.6010,1.530,13,"the Judge 72%, the market 60%"
+2026-11-14T00:54:41Z,age_fav,45569,UFC 334,2026-11-14,Terrance McKinney,Jim Miller,0.6131,0.6573,1.470,13,Terrance McKinney is 11 years younger (32 vs 43)
+2026-11-14T00:54:41Z,age_fav,45572,UFC 334,2026-11-14,Melquizael Costa,Jared Gordon,0.6889,0.7529,1.250,13,Melquizael Costa is 8 years younger (30 vs 38)
+2026-11-14T00:54:41Z,judge_fav,45570,UFC 334,2026-11-14,Donte Johnson,Cesar Almeida,0.8081,0.6176,1.540,13,"the Judge 81%, the market 62%"
+2026-11-14T00:54:41Z,age_fav,45570,UFC 334,2026-11-14,Donte Johnson,Cesar Almeida,0.8081,0.6176,1.540,13,Donte Johnson is 11 years younger (28 vs 39)
