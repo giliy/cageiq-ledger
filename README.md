@@ -66,6 +66,22 @@ Rows are never edited.
 | `book_p_a`, `book_src` | the sportsbooks' de-vigged chance for `fighter_a` (Pinnacle, else the median book) |
 | `poly_volume` | the Polymarket market's traded volume in dollars at that moment |
 
+## `eye-notes.csv` (since 15 November 2026)
+
+CageIQ's eye test: notes from watching a fighter's fight, written after it, from a fixed list of tags (faded late,
+durability concern, looked injured, looked past their best, weight-cut trouble, strong late, hurt but recovered,
+looked improved). Each note is shown before the fighter's next fight and is never part of the AI's number. The public
+test: for each noted fighter's next UFC fight, did they win more or less often than the closing odds expected?
+Nothing is reported as a finding before 100 graded fights in a group. A withdrawn note is a new row (`retracts`).
+
+| column | meaning |
+|---|---|
+| `logged_at` | when the note was logged (UTC), always after the fight it describes |
+| `fighter`, `opponent`, `fight_slug`, `event`, `fight_date` | the fight that was watched |
+| `tags` | tags from the fixed list, `;`-separated (`retracted` on a withdrawal row) |
+| `note` | the observation in plain words |
+| `retracts` | on a withdrawal row: the `logged_at` of the note it withdraws |
+
 ## How to verify we never edit history
 
 1. **Git history** of this repository: every update only appends lines to `picks.csv` and `boxing-picks.csv`.
