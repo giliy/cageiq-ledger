@@ -157,3 +157,9 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-14T10:18:27Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.751734,blend-v5,0.569975,median
 2026-11-14T13:56:27Z,45679,UFC 334,2026-11-14,Alatengheili,Juan Diaz,0.283853,blend-v5,,
 2026-11-15T07:57:05Z,45760,UFC Doha,2026-11-21,Alik Lorenz,Diyar Nurgozhay,0.397416,blend-v5,0.304636,median
+2026-11-15T08:45:24Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.588780,blend-v5,0.651972,pinnacle
+2026-11-15T08:45:24Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.406395,blend-v5,0.401478,pinnacle
+2026-11-15T08:45:24Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.431313,blend-v5,0.362981,median
+2026-11-15T08:45:24Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.467145,blend-v5,0.407960,pinnacle
+2026-11-15T08:45:24Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.575345,blend-v5,0.578406,median
+2026-11-15T08:45:24Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.739922,blend-v5,0.583120,median

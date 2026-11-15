@@ -51,7 +51,8 @@ against the closing line at [cageiq.app/price-watch](https://cageiq.app/price-wa
 
 Polymarket gap watch: on every run, each open UFC fight that has both a sportsbook price and a Polymarket price gets
 one row with both, taken minutes apart. The official observation of a fight is its last row before 00:00 UTC on the
-fight's date; a fight is flagged when Polymarket and the sportsbooks differ by 3 points or more there. Results are
+fight's date; a fight is flagged when Polymarket and the sportsbooks differ by 3 points or more there. A second rule
+(also from 15 November 2026) counts only flags where at least $10,000 had been traded on Polymarket. Results are
 summarised on [cageiq.app/research/ufc-polymarket-accuracy](https://cageiq.app/research/ufc-polymarket-accuracy/).
 Rows are never edited.
 
