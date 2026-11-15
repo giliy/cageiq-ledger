@@ -82,6 +82,23 @@ Nothing is reported as a finding before 100 graded fights in a group. A withdraw
 | `note` | the observation in plain words |
 | `retracts` | on a withdrawal row: the `logged_at` of the note it withdraws |
 
+## `card-hashes.csv` (from UFC Doha, 21 November 2026)
+
+One SHA-256 per UFC card, written by the first run after the card's picks lock (00:00 UTC on fight day), so hours
+before the first fight; this repository's history timestamps each row. Every fight with a price is picked, so a hash
+covers the whole card. A row is never changed.
+
+What is hashed: the header line of `picks.csv`, then, for that `event` + `event_date`, the last line per `mu_id` whose
+`created_at` is before the lock, sorted by `mu_id` as text; lines joined with `\n` plus a final `\n`, UTF-8. A
+ten-line Python check is at [cageiq.app/record](https://cageiq.app/record/#card-hashes).
+
+| column | meaning |
+|---|---|
+| `hashed_at` | when the hash was written (UTC) |
+| `event`, `event_date` | the card, as in `picks.csv` |
+| `picks` | how many official picks the hash covers |
+| `sha256` | the hash |
+
 ## How to verify we never edit history
 
 1. **Git history** of this repository: every update only appends lines to `picks.csv` and `boxing-picks.csv`.
