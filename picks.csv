@@ -164,3 +164,14 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-15T08:45:24Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.575345,blend-v5,0.578406,median
 2026-11-15T08:45:24Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.739922,blend-v5,0.583120,median
 2026-11-15T08:58:21Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.419875,blend-v5,0.452878,median
+2026-11-15T18:10:54Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.743592,blend-v5,0.651972,pinnacle
+2026-11-15T18:10:54Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.317484,blend-v5,0.401478,pinnacle
+2026-11-15T18:10:54Z,45508,UFC 334,2026-11-15,Caio Borralho,Yousri Belgaroui,0.568176,blend-v5,0.577889,pinnacle
+2026-11-15T18:10:54Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.505034,blend-v5,0.407960,pinnacle
+2026-11-15T18:10:54Z,45574,UFC Doha,2026-11-21,Jiri Prochazka,Navajo Stirling,0.283462,blend-v5,0.426020,median
+2026-11-15T18:10:54Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.431730,blend-v5,0.454655,median
+2026-11-15T18:10:54Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.604670,blend-v5,0.579561,median
+2026-11-15T18:10:54Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.529670,blend-v5,,
+2026-11-15T18:10:54Z,45736,UFC Doha,2026-11-21,Aleksandre Topuria,Santiago Luna,0.292703,blend-v5,0.678161,median
+2026-11-15T18:10:54Z,45737,UFC Doha,2026-11-21,Shamil Gaziev,Tallison Teixeira,0.288199,blend-v5,0.663137,median
+2026-11-15T18:10:54Z,45760,UFC Doha,2026-11-21,Alik Lorenz,Diyar Nurgozhay,0.413224,blend-v5,0.304973,median
