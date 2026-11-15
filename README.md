@@ -47,6 +47,22 @@ against the closing line at [cageiq.app/price-watch](https://cageiq.app/price-wa
 | `line_p` | the median sportsbook's de-vigged chance in the same odds snapshot (compared with the close) |
 | `price`, `best_price`, `best_book`, `books` | middle and best decimal price for `fighter` in that snapshot, and the number of books |
 
+## `poly-watch.csv` (since 15 November 2026)
+
+Polymarket gap watch: on every run, each open UFC fight that has both a sportsbook price and a Polymarket price gets
+one row with both, taken minutes apart. The official observation of a fight is its last row before 00:00 UTC on the
+fight's date; a fight is flagged when Polymarket and the sportsbooks differ by 3 points or more there. Results are
+summarised on [cageiq.app/research/ufc-polymarket-accuracy](https://cageiq.app/research/ufc-polymarket-accuracy/).
+Rows are never edited.
+
+| column | meaning |
+|---|---|
+| `seen_at` | when both prices were read (UTC) |
+| `mu_id`, `event`, `event_date`, `fighter_a`, `fighter_b` | the fight |
+| `poly_p_a` | Polymarket's mid price for `fighter_a` (only when the bid/ask spread is 10 cents or less) |
+| `book_p_a`, `book_src` | the sportsbooks' de-vigged chance for `fighter_a` (Pinnacle, else the median book) |
+| `poly_volume` | the Polymarket market's traded volume in dollars at that moment |
+
 ## How to verify we never edit history
 
 1. **Git history** of this repository: every update only appends lines to `picks.csv` and `boxing-picks.csv`.
