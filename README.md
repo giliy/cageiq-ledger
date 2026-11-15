@@ -1,8 +1,10 @@
 # CageIQ public pick ledger
 
 Every prediction [CageIQ](https://cageiq.app) makes, logged **before** the fight and never edited.
-This repository is updated automatically after each scheduled run (Monday and Thursday). It holds two files:
-[`picks.csv`](picks.csv) (UFC) and [`boxing-picks.csv`](boxing-picks.csv) (boxing, since November 2026).
+This repository is updated automatically after every scheduled run (several times a week). The picks:
+[`picks.csv`](picks.csv) (UFC), [`boxing-picks.csv`](boxing-picks.csv) (boxing, since November 2026) and
+[`promotions-picks.csv`](promotions-picks.csv) (PFL, KSW, RIZIN). Three frozen public experiments, each graded at
+cageiq.app: [`edge-watch.csv`](edge-watch.csv), [`price-watch.csv`](price-watch.csv) and [`poly-watch.csv`](poly-watch.csv).
 
 ## Columns: `picks.csv` (UFC)
 
@@ -72,3 +74,18 @@ Rows are never edited.
    line in the old snapshot must still be here, unchanged.
 3. The SHA-256 of each current file is shown at [cageiq.app/record](https://cageiq.app/record) (UFC) and
    [cageiq.app/boxing](https://cageiq.app/boxing/#verify) (boxing).
+
+## Research datasets (CC BY 4.0)
+
+CageIQ also publishes its UFC research with every table as a CSV, refreshed after each card, with sample sizes, 95%
+intervals and what the closing betting odds expected on the same fights:
+[cageiq.app/research](https://cageiq.app/research/). Examples: how often UFC favourites win, whether age, reach or
+southpaw stance matter, home advantage, referees and judges, and Polymarket against the sportsbooks. Each study page
+has a "Download the tables (CSV)" link. Free to reuse with a link to the study.
+
+## How to cite
+
+> CageIQ public pick ledger, https://github.com/giliy/cageiq-ledger (accessed <date>). Live record:
+> https://cageiq.app/record/
+
+Questions or corrections: https://cageiq.app/contact/
