@@ -73,3 +73,12 @@ seen_at,mu_id,event,event_date,fighter_a,fighter_b,poly_p_a,book_p_a,book_src,po
 2026-11-15T22:16:40Z,45737,UFC Doha,2026-11-21,Shamil Gaziev,Tallison Teixeira,0.6750,0.6631,median,1475
 2026-11-15T22:16:40Z,45760,UFC Doha,2026-11-21,Alik Lorenz,Diyar Nurgozhay,0.3150,0.3046,median,40
 2026-11-15T22:16:40Z,45738,UFC Doha,2026-11-21,Alessandro Costa,Amir Albazi,0.5500,0.5436,median,48
+2026-11-16T08:08:03Z,45574,UFC Doha,2026-11-21,Jiri Prochazka,Navajo Stirling,0.4150,0.4228,pinnacle,10299
+2026-11-16T08:08:03Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.4550,0.4462,pinnacle,4514
+2026-11-16T08:08:03Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.3750,0.3747,pinnacle,1373
+2026-11-16T08:08:03Z,45735,UFC Doha,2026-11-21,Ikram Aliskerov,Jared Cannonier,0.7400,0.7290,pinnacle,1563
+2026-11-16T08:08:03Z,45736,UFC Doha,2026-11-21,Aleksandre Topuria,Santiago Luna,0.6850,0.6925,pinnacle,1580
+2026-11-16T08:08:03Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.6050,0.5797,pinnacle,184
+2026-11-16T08:08:03Z,45737,UFC Doha,2026-11-21,Shamil Gaziev,Tallison Teixeira,0.6550,0.6493,pinnacle,2593
+2026-11-16T08:08:03Z,45760,UFC Doha,2026-11-21,Alik Lorenz,Diyar Nurgozhay,0.3000,0.3013,pinnacle,40
+2026-11-16T08:08:03Z,45739,UFC Doha,2026-11-21,Jake Matthews,Tahir Abdullayev,0.6950,0.6728,pinnacle,1853

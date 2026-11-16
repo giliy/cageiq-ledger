@@ -27,3 +27,4 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-15T08:04:26Z,584e2c7af822b1c2501131dd941d5fdc,2026-12-05T22:00:00Z,Alexis Rocha,Conah Walker,0.681006,box-blend-v1,0.689599,median
 2026-11-15T08:04:26Z,9841c39a8e2ad46da8b9419fb39335f5,2026-12-06T01:00:00Z,Nikita Tszyu,Roberto Valenzuela Jr,0.887108,box-blend-v1,0.791367,median
 2026-11-15T08:04:26Z,1d72c387fbcd738b8ae53f7982e6535c,2026-12-06T04:00:00Z,David Benavidez,Michal Cieslak,0.924480,box-blend-v1,0.886214,median
+2026-11-16T08:08:40Z,9b1dcce04470c40c5647966302e51a43,2026-12-13T05:00:00Z,Erislandy Lara,Tim Tszyu,0.484635,box-blend-v1,0.489305,median
