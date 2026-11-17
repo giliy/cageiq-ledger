@@ -17,3 +17,7 @@ created_at,bout_id,fight_date,promotion,sport,event,fighter_a,fighter_b,p_a,mode
 2026-11-13T18:06:38Z,bfo-45731,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Saygid Izagakhmaev,David Martinez,0.617466,promo-blend-v1,0.637941,4
 2026-11-13T18:06:38Z,bfo-45691,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Alexei Pergande,Akhmed Magomedov,0.634812,promo-blend-v1,0.604317,5
 2026-11-13T18:06:38Z,bfo-45696,2026-11-14,pfl,mma,PFL Dubai: Nemkov vs. Bilostenniy,Aleksandra Savicheva,Jacinta Austin,0.294559,promo-blend-v1,0.308748,5
+2026-11-17T18:33:34Z,bfo-45444,2026-11-21,ksw,mma,XTB KSW 123: Mircea vs. Held,Valeriu Mircea,Marcin Held,0.557143,promo-blend-v1,0.557522,1
+2026-11-17T18:33:34Z,bfo-45788,2026-11-21,ksw,mma,XTB KSW 123: Mircea vs. Held,Marian Ziółkowski,Roman Szymański,0.510046,promo-blend-v1,0.510121,1
+2026-11-17T18:33:34Z,bfo-45784,2026-11-21,ksw,mma,XTB KSW 123: Mircea vs. Held,Kamil Szkaradek,Rogério Bontorin,0.627859,promo-blend-v1,0.594096,1
+2026-11-17T18:33:34Z,bfo-45448,2026-11-21,ksw,mma,XTB KSW 123: Mircea vs. Held,Wojciech Kawa,Oleksandr Moisa,0.311258,promo-blend-v1,0.337349,1
