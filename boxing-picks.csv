@@ -32,3 +32,7 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-17T18:33:26Z,1985219fd04a6f3079d6d5e5abb82ded,2026-11-20T21:00:00Z,Lee McGregor,Rhys Edwards,0.251895,box-blend-v1,0.219251,pinnacle
 2026-11-17T18:33:26Z,d673e82db285a33cdb6d29de5067ec50,2026-11-21T03:00:00Z,Gabriela Fundora,Jasmina Zapotoczna,0.928743,box-blend-v1,0.923926,median
 2026-11-17T18:33:26Z,9b1dcce04470c40c5647966302e51a43,2026-12-13T05:00:00Z,Erislandy Lara,Tim Tszyu,0.412243,box-blend-v1,0.417534,median
+2026-11-18T07:11:43Z,1888f02c308437d8e14890fc73dec98b,2026-12-04T22:00:00Z,Adam Azim,Gabriel Gollaz Valenzuela,0.853023,box-blend-v1,0.659822,median
+2026-11-18T07:11:43Z,584e2c7af822b1c2501131dd941d5fdc,2026-12-05T22:00:00Z,Alexis Rocha,Conah Walker,0.587885,box-blend-v1,0.598746,median
+2026-11-18T07:11:43Z,9841c39a8e2ad46da8b9419fb39335f5,2026-12-06T01:00:00Z,Nikita Tszyu,Roberto Valenzuela Jr,0.776094,box-blend-v1,0.627309,median
+2026-11-18T07:11:43Z,1d72c387fbcd738b8ae53f7982e6535c,2026-12-06T04:00:00Z,David Benavidez,Michal Cieslak,0.904948,box-blend-v1,0.858516,median
