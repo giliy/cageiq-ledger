@@ -4,3 +4,8 @@ logged_at,rule,mu_id,event,event_date,fighter,opponent,judge_p,market_p,price,bo
 2026-11-14T00:54:41Z,age_fav,45572,UFC 334,2026-11-14,Melquizael Costa,Jared Gordon,0.6889,0.7529,1.250,13,Melquizael Costa is 8 years younger (30 vs 38)
 2026-11-14T00:54:41Z,judge_fav,45570,UFC 334,2026-11-14,Donte Johnson,Cesar Almeida,0.8081,0.6176,1.540,13,"the Judge 81%, the market 62%"
 2026-11-14T00:54:41Z,age_fav,45570,UFC 334,2026-11-14,Donte Johnson,Cesar Almeida,0.8081,0.6176,1.540,13,Donte Johnson is 11 years younger (28 vs 39)
+2026-11-21T07:07:28Z,judge_fav,45574,UFC Doha,2026-11-21,Navajo Stirling,Jiri Prochazka,0.7165,0.5740,1.570,19,"the Judge 72%, the market 57%"
+2026-11-21T07:07:28Z,judge_fav,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.7567,0.5797,1.610,15,"the Judge 76%, the market 58%"
+2026-11-21T07:07:28Z,age_fav,45735,UFC Doha,2026-11-21,Ikram Aliskerov,Jared Cannonier,0.7311,0.7284,1.340,19,Ikram Aliskerov is 9 years younger (34 vs 43)
+2026-11-21T07:07:28Z,age_fav,45676,UFC Doha,2026-11-21,Kevin Vallejos,Aljamain Sterling,0.5810,0.5438,1.760,18,Kevin Vallejos is 12 years younger (25 vs 37)
+2026-11-21T07:07:28Z,rust_fav,45733,UFC Doha,2026-11-21,Dan Hooker,Brian Ortega,0.3460,0.6304,1.530,18,Brian Ortega hasn't fought in 15 months; Dan Hooker fought 3 months ago

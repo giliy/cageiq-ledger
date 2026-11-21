@@ -51,3 +51,9 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-20T20:05:01Z,48bcbd1190da8e0cd6081b17cbdbd50a,2026-11-21T18:00:00Z,Isabel Rivero,Sumire Yamanaka,0.532937,box-blend-v1,0.500000,pinnacle
 2026-11-20T20:05:01Z,1888f02c308437d8e14890fc73dec98b,2026-12-04T22:00:00Z,Adam Azim,Gabriel Gollaz Valenzuela,0.854049,box-blend-v1,0.661537,median
 2026-11-20T20:05:01Z,7925d57df203c5ae97477fec65f62c83,2026-12-06T03:00:00Z,Keith Thurman,Vergil Ortiz Jr,0.065320,box-blend-v1,0.087137,median
+2026-11-21T07:08:23Z,c18243206995f61294d952c26661373b,2026-11-28T21:00:00Z,Agit Kabayel,Nelson Hysa,0.837604,box-blend-v1,0.885936,median
+2026-11-21T07:08:23Z,1888f02c308437d8e14890fc73dec98b,2026-12-04T22:00:00Z,Adam Azim,Gabriel Gollaz Valenzuela,0.937487,box-blend-v1,0.832073,median
+2026-11-21T07:08:23Z,584e2c7af822b1c2501131dd941d5fdc,2026-12-05T22:00:00Z,Alexis Rocha,Conah Walker,0.595900,box-blend-v1,0.606828,median
+2026-11-21T07:08:23Z,9841c39a8e2ad46da8b9419fb39335f5,2026-12-06T01:00:00Z,Nikita Tszyu,Roberto Valenzuela Jr,0.792965,box-blend-v1,0.649832,median
+2026-11-21T07:08:23Z,fac779f4dad09a10c034155d1ca8acd6,2026-12-06T02:00:00Z,Emiliano Vargas,Omar Juarez,0.942456,box-blend-v1,0.856397,median
+2026-11-21T07:08:23Z,7925d57df203c5ae97477fec65f62c83,2026-12-06T03:00:00Z,Keith Thurman,Vergil Ortiz Jr,0.078985,box-blend-v1,0.104724,median
