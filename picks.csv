@@ -1,7 +1,6 @@
 created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,market_src
 2026-11-06T19:29:41Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.599220,blend-v1,0.672018,pinnacle
 2026-11-06T19:29:41Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.546898,blend-v1,0.374696,pinnacle
-2026-11-06T19:29:41Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.412922,blend-v1,0.363418,median
 2026-11-06T19:29:41Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.566533,blend-v1,,
 2026-11-06T19:29:41Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.425536,blend-v1,0.388623,median
 2026-11-06T19:29:41Z,45510,UFC 334,2026-11-15,Bilal Hasan,Luis Gurule,0.759763,blend-v1,0.858779,median
@@ -25,14 +24,11 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-06T19:29:41Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.280642,blend-v1,0.216216,median
 2026-11-06T19:29:41Z,45628,UFC Vegas 124,2026-11-07,Austin Bashi,Carlos Calderon,0.643146,blend-v1,0.848806,pinnacle
 2026-11-07T08:21:17Z,45510,UFC 334,2026-11-15,Bilal Hasan,Luis Gurule,0.744059,blend-v1,0.858779,median
-2026-11-07T08:21:17Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.315659,blend-v1,0.319249,median
 2026-11-07T08:21:17Z,45556,UFC Vegas 124,2026-11-07,Jonny Parsons,Jose Souza,0.544893,blend-v1,0.325792,pinnacle
 2026-11-07T08:35:38Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.619964,blend-v2,0.672018,pinnacle
 2026-11-07T08:35:38Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.464489,blend-v2,0.371359,pinnacle
-2026-11-07T08:35:38Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.501122,blend-v2,0.363418,median
 2026-11-07T08:35:38Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.494965,blend-v2,,
 2026-11-07T08:35:38Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.467325,blend-v2,0.390818,median
-2026-11-07T08:35:38Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.300753,blend-v2,0.319249,median
 2026-11-07T08:35:38Z,45546,UFC Vegas 124,2026-11-07,Gabriella Fernandes,Karine Silva,0.320492,blend-v2,0.334101,pinnacle
 2026-11-07T08:35:38Z,45550,UFC Vegas 124,2026-11-07,Jose Delano,Murtazali Magomedov,0.402809,blend-v2,0.506460,pinnacle
 2026-11-07T08:35:38Z,45551,UFC Vegas 124,2026-11-07,Keiichiro Nakamura,Ollie Schmid,0.520981,blend-v2,0.759470,pinnacle
@@ -46,7 +42,6 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-07T08:35:38Z,45628,UFC Vegas 124,2026-11-07,Austin Bashi,Carlos Calderon,0.679409,blend-v2,0.843537,pinnacle
 2026-11-07T10:19:19Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.606037,blend-v4,0.672018,pinnacle
 2026-11-07T10:19:19Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.406511,blend-v4,0.371359,pinnacle
-2026-11-07T10:19:19Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.434172,blend-v4,0.363418,median
 2026-11-07T10:19:19Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.421899,blend-v4,,
 2026-11-07T10:19:19Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.434533,blend-v4,0.390818,median
 2026-11-07T10:19:19Z,45510,UFC 334,2026-11-15,Bilal Hasan,Luis Gurule,0.772354,blend-v4,0.858779,median
@@ -58,11 +53,8 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-07T10:19:19Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.720123,blend-v4,0.562827,median
 2026-11-07T10:19:19Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.321783,blend-v4,0.216216,median
 2026-11-08T07:55:31Z,45574,UFC Doha,2026-11-21,Jiri Prochazka,Navajo Stirling,0.293905,blend-v4,0.437340,median
-2026-11-08T07:55:31Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.586438,blend-v4,0.550705,median
 2026-11-08T08:53:31Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.418912,blend-v4,0.397493,median
-2026-11-08T08:53:31Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.286939,blend-v4,0.313501,median
 2026-11-08T08:53:31Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.731678,blend-v4,0.591940,median
-2026-11-08T08:53:31Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.569824,blend-v4,0.550705,median
 2026-11-08T15:13:12Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.430199,blend-v4,0.394284,median
 2026-11-08T15:13:12Z,45569,UFC 334,2026-11-14,Jim Miller,Terrance McKinney,0.416512,blend-v4,0.340491,median
 2026-11-08T16:34:21Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.438696,blend-v5,,
@@ -74,10 +66,8 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-08T16:34:21Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.635373,blend-v5,0.655918,median
 2026-11-08T20:19:39Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.623926,blend-v5,0.663573,pinnacle
 2026-11-08T20:19:39Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.379678,blend-v5,0.375610,pinnacle
-2026-11-08T20:19:39Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.449501,blend-v5,0.362981,median
 2026-11-08T20:19:39Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.428034,blend-v5,,
 2026-11-08T20:19:39Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.466922,blend-v5,0.397259,median
-2026-11-08T20:19:39Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.276381,blend-v5,0.313501,median
 2026-11-08T20:19:39Z,45543,UFC Vegas 124,2026-11-08,Tatiana Suarez,Virna Jandiroba,0.655831,blend-v5,0.640662,pinnacle
 2026-11-08T20:19:39Z,45545,UFC Vegas 124,2026-11-08,Billy Elekana,Lucas Fernando,0.295366,blend-v5,0.259921,pinnacle
 2026-11-08T20:19:39Z,45557,UFC Vegas 124,2026-11-08,Marcos Degli,Mitch Raposo,0.355100,blend-v5,0.674208,pinnacle
@@ -86,20 +76,16 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-08T20:19:39Z,45569,UFC 334,2026-11-14,Jim Miller,Terrance McKinney,0.386908,blend-v5,0.342723,median
 2026-11-08T20:19:39Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.191892,blend-v5,0.384422,median
 2026-11-08T20:19:39Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.311125,blend-v5,0.247104,median
-2026-11-08T20:19:39Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.590934,blend-v5,0.556168,median
 2026-11-09T10:24:23Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.605572,blend-v5,0.662791,pinnacle
 2026-11-09T10:24:23Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.396484,blend-v5,0.375610,pinnacle
-2026-11-09T10:24:23Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.437487,blend-v5,0.362981,median
 2026-11-09T10:24:23Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.489624,blend-v5,0.425316,pinnacle
 2026-11-09T10:24:23Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.645939,blend-v5,0.691796,pinnacle
-2026-11-09T10:24:23Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.569012,blend-v5,0.567326,median
 2026-11-10T09:48:51Z,45573,UFC 334,2026-11-14,Evan Elder,Samuel Sanches,0.471297,blend-v5,0.474093,pinnacle
 2026-11-12T12:28:40Z,45508,UFC 334,2026-11-15,Caio Borralho,Yousri Belgaroui,0.433092,blend-v5,0.580808,pinnacle
 2026-11-12T19:32:16Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.632536,blend-v5,0.625304,pinnacle
 2026-11-12T19:32:16Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.382568,blend-v5,0.401496,pinnacle
 2026-11-12T19:32:16Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.470218,blend-v5,0.409548,pinnacle
 2026-11-12T19:32:16Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.656453,blend-v5,0.696703,pinnacle
-2026-11-12T19:32:16Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.588239,blend-v5,0.578406,median
 2026-11-12T20:15:46Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.670370,blend-v5,0.415617,median
 2026-11-12T20:15:46Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.545199,blend-v5,,
 2026-11-12T20:15:46Z,45735,UFC Doha,2026-11-21,Ikram Aliskerov,Jared Cannonier,0.742946,blend-v5,0.761905,median
@@ -113,18 +99,15 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-12T23:02:07Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.439595,blend-v5,,
 2026-11-12T23:02:07Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.205403,blend-v5,0.382353,pinnacle
 2026-11-12T23:02:07Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.645822,blend-v5,0.696703,pinnacle
-2026-11-12T23:02:07Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.574077,blend-v5,0.578406,median
 2026-11-12T23:02:07Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.655795,blend-v5,0.419347,median
 2026-11-12T23:02:07Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.743150,blend-v5,0.584383,median
 2026-11-13T08:14:01Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.432956,blend-v5,0.465116,median
 2026-11-13T08:42:40Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.623880,blend-v5,0.642857,pinnacle
 2026-11-13T08:42:40Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.379620,blend-v5,0.405000,pinnacle
-2026-11-13T08:42:40Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.449509,blend-v5,0.362981,median
 2026-11-13T08:42:40Z,45182,UFC 335,2026-12-13,Bo Nickal,Joe Pyfer,0.427711,blend-v5,,
 2026-11-13T08:42:40Z,45570,UFC 334,2026-11-14,Cesar Almeida,Donte Johnson,0.191891,blend-v5,0.382353,pinnacle
 2026-11-13T08:42:40Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.631478,blend-v5,0.688196,pinnacle
 2026-11-13T08:42:40Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.414042,blend-v5,0.465116,median
-2026-11-13T08:42:40Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.590955,blend-v5,0.577917,median
 2026-11-13T08:42:40Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.562126,blend-v5,,
 2026-11-13T08:42:40Z,45735,UFC Doha,2026-11-21,Ikram Aliskerov,Jared Cannonier,0.732207,blend-v5,0.740790,median
 2026-11-13T18:25:33Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.638481,blend-v5,0.646919,pinnacle
@@ -136,32 +119,25 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-14T00:47:22Z,45569,UFC 334,2026-11-14,Jim Miller,Terrance McKinney,0.427164,blend-v5,0.353081,pinnacle
 2026-11-14T06:49:52Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.592320,blend-v5,0.654206,pinnacle
 2026-11-14T06:49:52Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.400186,blend-v5,0.401985,pinnacle
-2026-11-14T06:49:52Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.427701,blend-v5,0.366093,median
-2026-11-14T06:49:52Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.287257,blend-v5,0.312377,median
 2026-11-14T06:49:52Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.703821,blend-v5,0.621027,pinnacle
 2026-11-14T06:49:52Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.626853,blend-v5,0.691111,pinnacle
 2026-11-14T06:49:52Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.322512,blend-v5,0.228938,pinnacle
-2026-11-14T06:49:52Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.577197,blend-v5,0.577428,median
 2026-11-14T06:49:52Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.645178,blend-v5,0.407035,median
 2026-11-14T06:49:52Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.555518,blend-v5,,
 2026-11-14T06:49:52Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.740718,blend-v5,0.569975,median
 2026-11-14T10:18:27Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.622124,blend-v5,0.653396,pinnacle
 2026-11-14T10:18:27Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.385127,blend-v5,0.401985,pinnacle
-2026-11-14T10:18:27Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.456508,blend-v5,0.362981,median
 2026-11-14T10:18:27Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.487547,blend-v5,0.409548,pinnacle
 2026-11-14T10:18:27Z,45568,UFC 334,2026-11-14,Chris Duncan,Drew Dober,0.713855,blend-v5,0.617647,pinnacle
 2026-11-14T10:18:27Z,45571,UFC 334,2026-11-14,Bia Mesquita,Macy Chiasson,0.640355,blend-v5,0.691111,pinnacle
 2026-11-14T10:18:27Z,45572,UFC 334,2026-11-14,Jared Gordon,Melquizael Costa,0.312368,blend-v5,0.228938,pinnacle
 2026-11-14T10:18:27Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.432205,blend-v5,0.456522,median
-2026-11-14T10:18:27Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.588172,blend-v5,0.578406,median
 2026-11-14T10:18:27Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.751734,blend-v5,0.569975,median
 2026-11-14T13:56:27Z,45679,UFC 334,2026-11-14,Alatengheili,Juan Diaz,0.283853,blend-v5,,
 2026-11-15T07:57:05Z,45760,UFC Doha,2026-11-21,Alik Lorenz,Diyar Nurgozhay,0.397416,blend-v5,0.304636,median
 2026-11-15T08:45:24Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.588780,blend-v5,0.651972,pinnacle
 2026-11-15T08:45:24Z,44985,UFC 334,2026-11-15,Amanda Nunes,Kayla Harrison,0.406395,blend-v5,0.401478,pinnacle
-2026-11-15T08:45:24Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.431313,blend-v5,0.362981,median
 2026-11-15T08:45:24Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.467145,blend-v5,0.407960,pinnacle
-2026-11-15T08:45:24Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.575345,blend-v5,0.578406,median
 2026-11-15T08:45:24Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.739922,blend-v5,0.583120,median
 2026-11-15T08:58:21Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.419875,blend-v5,0.452878,median
 2026-11-15T18:10:54Z,43676,UFC 334,2026-11-15,Ciryl Gane,Josh Hokit,0.743592,blend-v5,0.651972,pinnacle
@@ -170,7 +146,6 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-15T18:10:54Z,45509,UFC 334,2026-11-15,Kevin Holland,Uros Medic,0.505034,blend-v5,0.407960,pinnacle
 2026-11-15T18:10:54Z,45574,UFC Doha,2026-11-21,Jiri Prochazka,Navajo Stirling,0.283462,blend-v5,0.426020,median
 2026-11-15T18:10:54Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.431730,blend-v5,0.454655,median
-2026-11-15T18:10:54Z,45677,UFC Saudi Arabia,2026-12-05,Israel Adesanya,Shara Magomedov,0.604670,blend-v5,0.579561,median
 2026-11-15T18:10:54Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.529670,blend-v5,,
 2026-11-15T18:10:54Z,45736,UFC Doha,2026-11-21,Aleksandre Topuria,Santiago Luna,0.292703,blend-v5,0.678161,median
 2026-11-15T18:10:54Z,45737,UFC Doha,2026-11-21,Shamil Gaziev,Tallison Teixeira,0.288199,blend-v5,0.663137,median
@@ -180,10 +155,9 @@ created_at,mu_id,event,event_date,fighter_a,fighter_b,p_a,model,market_p_a,marke
 2026-11-16T09:15:44Z,45740,UFC Doha,2026-11-21,Dom Mar Fan,Nikolas Motta,0.756650,blend-v5,0.579747,pinnacle
 2026-11-16T17:03:57Z,45735,UFC Doha,2026-11-21,Ikram Aliskerov,Jared Cannonier,0.731057,blend-v5,0.728395,pinnacle
 2026-11-19T18:03:18Z,45842,UFC Doha,2026-11-21,John Mitchell,Shoaib Yousaf,0.500000,blend-v5,0.558974,pinnacle
-2026-11-19T20:59:57Z,45181,UFC 335,2026-12-13,Alex Pereira,Sergei Pavlovich,0.449722,blend-v5,0.362981,median
-2026-11-19T20:59:57Z,45541,UFC Sydney,2027-02-06,Benoit Saint Denis,Quillan Salkilld,0.275410,blend-v5,0.295711,median
 2026-11-19T20:59:57Z,45676,UFC Doha,2026-11-21,Aljamain Sterling,Kevin Vallejos,0.418999,blend-v5,0.456186,pinnacle
 2026-11-19T20:59:57Z,45733,UFC Doha,2026-11-21,Brian Ortega,Dan Hooker,0.653973,blend-v5,0.369565,pinnacle
 2026-11-19T20:59:57Z,45734,UFC Doha,2026-11-21,Asu Almabayev,Kyoji Horiguchi,0.541724,blend-v5,,
 2026-11-19T20:59:57Z,45738,UFC Doha,2026-11-21,Alessandro Costa,Amir Albazi,0.515642,blend-v5,0.503896,pinnacle
 2026-11-20T20:02:50Z,45739,UFC Doha,2026-11-21,Jake Matthews,Tahir Abdullayev,0.666761,blend-v5,0.680899,pinnacle
+2026-11-22T21:33:04Z,45879,UFC Saudi Arabia,2026-12-05,Ivan Gnizditskiy,Uran Satybaldiev,0.504978,blend-v5,,
