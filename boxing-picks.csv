@@ -69,3 +69,6 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-23T20:26:44Z,4260f7557b6c1031ee1098f435482b8d,2026-11-26T12:00:00Z,Masamichi Yabuki,Miel Fajardo,0.807043,box-blend-v1,0.784832,pinnacle
 2026-11-23T20:26:44Z,fa5ff410f4cf4432424aee65f4e6f2fa,2026-11-29T12:00:00Z,Riku Masuda,Seiya Tsutsumi,0.669538,box-blend-v1,0.618227,pinnacle
 2026-11-23T20:26:44Z,4453fea37e575796ab833b75f4c17a39,2026-12-20T03:00:00Z,Abel Ramos,Brian Norman Jr,0.176069,box-blend-v1,0.350032,median
+2026-11-24T07:09:55Z,4260f7557b6c1031ee1098f435482b8d,2026-11-26T12:00:00Z,Masamichi Yabuki,Miel Fajardo,0.772511,box-blend-v1,0.748031,pinnacle
+2026-11-24T07:09:55Z,c18243206995f61294d952c26661373b,2026-11-28T21:00:00Z,Agit Kabayel,Nelson Hysa,0.852776,box-blend-v1,0.897059,median
+2026-11-24T07:09:55Z,fa5ff410f4cf4432424aee65f4e6f2fa,2026-11-29T12:00:00Z,Riku Masuda,Seiya Tsutsumi,0.685632,box-blend-v1,0.635266,pinnacle
