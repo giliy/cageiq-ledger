@@ -90,3 +90,7 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-25T19:37:18Z,9841c39a8e2ad46da8b9419fb39335f5,2026-12-06T01:00:00Z,Nikita Tszyu,Roberto Valenzuela Jr,0.678347,box-blend-v1,0.507317,median
 2026-11-25T19:37:18Z,fac779f4dad09a10c034155d1ca8acd6,2026-12-06T02:00:00Z,Emiliano Vargas,Omar Juarez,0.952871,box-blend-v1,0.880127,median
 2026-11-25T19:37:18Z,1d72c387fbcd738b8ae53f7982e6535c,2026-12-06T04:00:00Z,David Benavidez,Michal Cieslak,0.905828,box-blend-v1,0.859788,median
+2026-11-26T18:06:14Z,8103851ed99096c42175f2f393d56099,2026-11-27T17:00:00Z,Emanuel Odiase,Mike Perez,0.725477,box-blend-v1,0.741334,median
+2026-11-26T18:06:14Z,c18243206995f61294d952c26661373b,2026-11-28T21:00:00Z,Agit Kabayel,Nelson Hysa,0.830880,box-blend-v1,0.881057,median
+2026-11-26T18:06:14Z,35aff424a542edb3ed32edbc12888002,2026-11-29T09:00:00Z,David Jimenez,Seigo Yuri Akui,0.505520,box-blend-v1,0.418782,pinnacle
+2026-11-26T18:06:14Z,fa5ff410f4cf4432424aee65f4e6f2fa,2026-11-29T11:00:00Z,Riku Masuda,Seiya Tsutsumi,0.684788,box-blend-v1,0.634383,pinnacle
