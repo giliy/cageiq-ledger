@@ -94,3 +94,6 @@ created_at,event_id,fight_date,boxer_a,boxer_b,p_a,model,market_p_a,market_src
 2026-11-26T18:06:14Z,c18243206995f61294d952c26661373b,2026-11-28T21:00:00Z,Agit Kabayel,Nelson Hysa,0.830880,box-blend-v1,0.881057,median
 2026-11-26T18:06:14Z,35aff424a542edb3ed32edbc12888002,2026-11-29T09:00:00Z,David Jimenez,Seigo Yuri Akui,0.505520,box-blend-v1,0.418782,pinnacle
 2026-11-26T18:06:14Z,fa5ff410f4cf4432424aee65f4e6f2fa,2026-11-29T11:00:00Z,Riku Masuda,Seiya Tsutsumi,0.684788,box-blend-v1,0.634383,pinnacle
+2026-11-27T20:05:11Z,c18243206995f61294d952c26661373b,2026-11-28T22:00:00Z,Agit Kabayel,Nelson Hysa,0.819077,box-blend-v1,0.872538,pinnacle
+2026-11-27T20:05:11Z,35aff424a542edb3ed32edbc12888002,2026-11-29T09:00:00Z,David Jimenez,Seigo Yuri Akui,0.543890,box-blend-v1,0.455959,pinnacle
+2026-11-27T20:05:11Z,fa5ff410f4cf4432424aee65f4e6f2fa,2026-11-29T11:00:00Z,Riku Masuda,Seiya Tsutsumi,0.696606,box-blend-v1,0.646778,pinnacle
